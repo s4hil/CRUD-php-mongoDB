@@ -83,6 +83,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 </head>
 <body>
+	<h2 class="alert alert-success text-center mt-5">CRUD - PHP - MONGODB</h2>
 	<div class="container-fluid row d-flex justify-content-center mt-5">
 		<div class="col-lg-4 col-md-4 col-sm-12">
 			<h3 class="alert alert-info text-center">Add User</h3>
